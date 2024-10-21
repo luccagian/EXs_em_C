@@ -3,9 +3,8 @@ Desenvolva um programa para calcular o IMC (Índice de Massa Corporal) de uma pe
 Seu programa deverá:
 • Solicitar o peso da pessoa (em quilogramas).
 • Solicitar a altura da pessoa (em metros).
-• Calcular o IMC pela fórmula: 𝐼𝑀𝐶 =
-𝑝𝑒𝑠𝑜
-𝑎𝑙𝑡𝑢𝑟𝑎^2
+• Calcular o IMC pela fórmula: 
+𝐼𝑀𝐶 = 𝑝𝑒𝑠𝑜 / 𝑎𝑙𝑡𝑢𝑟𝑎^2
 • Imprimir o resultado na tela do computador utilizando uma mensagem no formato:
 O IMC de uma pessoa com peso __ kg e altura __ m é igual a ___.
 */
