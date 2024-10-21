@@ -1,3 +1,13 @@
+/*
+Desenvolva um programa para calcular a hipotenusa de um triângulo retângulo.
+Seu programa deverá:
+• Solicitar os valores dos dois catetos do triângulo retângulo.
+• Calcular o cateto utilizando a fórmula:
+  ℎ𝑖𝑝𝑜𝑡𝑒𝑛𝑢𝑠𝑎^2 = 𝑐𝑎𝑡𝑒𝑡𝑜1^2 + 𝑐𝑎𝑡𝑒𝑡𝑜2^2
+• Imprimir o resultado na tela do computador utilizando uma mensagem no formato:
+Um triângulo retângulo com lados ___ e ___ tem uma hipotenusa igual a ____.
+*/
+
 #include <stdio.h>
 #include <math.h>
 
