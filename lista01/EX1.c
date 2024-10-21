@@ -1,3 +1,9 @@
+/*
+Escreva um programa em C que solicite que o usuário forneça dois números 
+inteiros e imprima o resultado da soma, subtração, multiplicação e divisão 
+inteira desses números.
+*/
+
 #include <stdio.h>
 
 int main()
