@@ -1,4 +1,7 @@
-/* Gian Lucca - 10438361 */
+/* 
+Repita o exercício anterior, agora deve ser impresso os elementos 
+que estão em A[] mas não estão em B[], ou seja, a diferença de A – B
+*/
 
 #include <stdio.h>
 #include <stdbool.h>
