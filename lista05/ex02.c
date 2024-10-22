@@ -1,4 +1,11 @@
-// 10438361 - gian lucca
+/*
+Inversão de String e Remoção de Espaços Escreva um programa que solicite ao usuário para digitar uma frase. 
+O programa deve:
+Remover todos os espaços em branco da frase.
+Reverter a frase sem espaços e exibi-la na tela.
+Implementar uma função que verifique se a frase resultante é um palíndromo 
+(ou seja, se lida ao contrário é igual à original).
+*/
 
 #include <stdio.h>
 #include <string.h>
