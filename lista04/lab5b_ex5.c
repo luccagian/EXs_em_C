@@ -1,4 +1,10 @@
-/* Gian Lucca - 10438361 */
+/* 
+ Escreva uma função que recebe dois vetores inteiros A[] e B[], em 
+seguida, a sua função imprime a UNIÃO entre os vetores, ou seja, os 
+elementos do vetor A mais aos elementos do vetor B, 
+desconsiderando os números repetidos de A em B. Os vetores dados 
+não possuem valores duplicados e não estão ordenados.
+*/
 
 #include <stdio.h>
 #include <stdbool.h>
