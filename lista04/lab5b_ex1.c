@@ -1,4 +1,8 @@
-/* Gian Lucca - 10438361 */
+/* 
+Escreva um programa que recebe um vetor de número inteiros, e 
+verifica se os elementos do vetor estão em ordem crescente. A função 
+retorna true se estiver em ordem crescente e false, caso contrário.
+*/
 
 #include <stdio.h>
 #include <stdbool.h>
