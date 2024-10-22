@@ -1,3 +1,10 @@
+/*
+Escreva um programa que converte uma temperatura Celsius em Fahrenheit.
+Exemplo de saída:
+‘Digite a temperatura em graus Celsius: 21
+A Temperatura em graus Fahrenheit é 69.80’
+*/
+
 #include <stdio.h>
 
 int main()
