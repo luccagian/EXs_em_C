@@ -1,3 +1,9 @@
+/*
+Escreva um programa que lê dois valores inteiros e exibe os seguintes resultados:
+a) o resultado da soma dos números.
+b) o resultado da média dos números
+*/
+
 #include <stdio.h>
 
 int main()
