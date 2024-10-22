@@ -1,4 +1,14 @@
-/* Gian Lucca - 10438361 */
+/* 
+Escreva uma função em linguagem C chamada divisores que receba 
+um valor inteiro 𝑛 ≥ 0 digitado pelo usuário e exiba na tela os divisores positivos 
+de 𝑛. 
+Algumas observações: 
+1) Após a execução da função divisores, deve-se perguntar ao usuário do 
+programa se ele deseja continuar ou não. Se o usuário desejar continuar 
+então, neste caso, o programa deve solicitar que o usuário digite um novo 
+valor inteiro para o cálculo de seus divisores positivos. 
+2) Você deve incluir também em seu programa o protótipo da função divisores. 
+*/
 
 #include <stdio.h>
 
