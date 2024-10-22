@@ -1,3 +1,18 @@
+/*
+ Crie um programa que inicialize as seguintes variáveis:
+• lapis = 45
+• borrachas = 2345 
+• canetas = 420 
+• cadernos = 8
+• fitas = 13050
+A saída deverá ser (tabela):
+Lápis         45
+Borrachas     2345
+Canetas       420
+Cadernos      8
+Fitas         13050
+*/
+
 #include <stdio.h>
 
 int main()
