@@ -1,4 +1,10 @@
-/* Gian Lucca - 10438361 */
+/* 
+ Escreva uma função que recebe um vetor contendo 5 números 
+inteiros e um valor x. A função deverá devolver um inteiro contendo a 
+posição em que o valor x (lido do teclado) está no vetor. Caso o valor x 
+não seja encontrado, a função deve retornar o valor -1.
+OBS: considere que o vetor não tem números repetidos. 
+*/
 
 #include <stdio.h>
 
