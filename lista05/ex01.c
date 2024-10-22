@@ -1,4 +1,11 @@
-// 10438361 - gian lucca
+/*
+Manipulação de Caracteres e Códigos ASCII Desenvolva um programa que solicite ao usuário para inserir uma frase. 
+O programa deve realizar as seguintes ações:
+
+Exibir cada caractere da frase junto com seu respectivo valor na tabela ASCII.
+Contar e exibir quantos caracteres são letras maiúsculas, minúsculas, dígitos numéricos e caracteres especiais.
+Implementar uma função que converta todas as letras minúsculas em maiúsculas e exibir a frase resultante.
+*/
 
 #include <stdio.h>
 #include <string.h>
