@@ -1,4 +1,10 @@
-/* Gian Lucca - 10438361 */
+/* 
+Escreva uma função que recebe dois vetores inteiros A[] e B[], em 
+seguida, a sua função imprime na tela os valores referentes à 
+INTERSECÇÃO entre os vetores, ou seja, os elementos em comum 
+entre os dois vetores. Considere que os vetores dados não possuem 
+valores duplicados e não estão ordenados
+*/
 
 #include <stdio.h>
 #include <stdbool.h>
