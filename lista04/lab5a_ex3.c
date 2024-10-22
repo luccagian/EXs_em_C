@@ -1,4 +1,8 @@
-/* Gian Lucca - 10438361 */
+/* 
+Escreva uma função em C chamada 𝑓𝑖𝑏𝑜𝑛𝑎𝑐𝑐𝑖 que recebe um valor inteiro 𝑛 ≥ 1 e 
+revolve o 𝑛 − é𝑠𝑖𝑚𝑜 termo da sequência de Fibonacci. 
+Exemplo. Se𝑛 = 6, 𝑓𝑖𝑏𝑜𝑛𝑛𝑎𝑐𝑐𝑖(6) = 8
+*/
 
 #include <stdio.h>
 
