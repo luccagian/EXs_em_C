@@ -1,4 +1,8 @@
-/* Gian Lucca - 10438361 */
+/* 
+Escreva uma função que preencha por leitura do teclado um vetor 
+de 10 posições e retorna um inteiro com a quantidade de valores 
+diferentes que existem no vetor.
+*/
 
 #include <stdio.h>
 
