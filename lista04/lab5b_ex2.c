@@ -1,4 +1,7 @@
-/* Gian Lucca - 10438361 */
+/* 
+Escreva uma função que recebe um vetor de TAM 5 e inverte seus 
+valores.
+*/
 
 #include <stdio.h>
 
