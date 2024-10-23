@@ -1,3 +1,37 @@
+/*
+Para esta atividade você deve implementar os 3 algoritmos de ordenação estudados em sala. 
+Eles já foram apresentados pelo professor de teoria.
+Com os 3 algoritmos implementados em funções diferentes, chegou a hora de medir o desempenho.
+
+Crie na função principal com 3 vetores de teste:
+
+melhor caso: quando a lista está ordenada.
+
+pior caso: quando a lista está em ordem inversa.
+
+caso intermediário: uma lista com elementos em ordem aleatória
+
+Chame cada um dos métodos de ordenação para os 3 casos e meça o tempo que levou para ordenar.
+Para isso utilize a biblioteca time.h, com ela você consegue obter o tempo atual em segundo se estudar o método clock(). 
+
+A saída do seu programa deve ser:
+
+Buble Sort
+- melhor caso:  X segundos
+- pior caso: Y segundos
+- caso intermediário: Z segundos
+
+Selection Sort
+- melhor caso:  X segundos
+- pior caso: Y segundos
+- caso intermediário: Z segundos
+
+Insertion Sort
+- melhor caso:  X segundos
+- pior caso: Y segundos
+- caso intermediário: Z segundos
+Sendo x, y e z valores em segundos para cada caso testado. Lembre-se de testar cada algoritmo na mesma condição de entrada.
+*/
 #include <stdio.h>
 #include <time.h>
 #include <stdbool.h>
