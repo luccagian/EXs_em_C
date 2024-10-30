@@ -1,5 +1,6 @@
 /*
-10438361 - GIAN LUCCA
+Você deverá criar um programa em linguagem C que leia uma lista de números inteiros a partir de um arquivo de entrada, 
+ordene os números em ordem crescente e escreva o resultado em um novo arquivo de saída.
 */
 
 #include <stdio.h>
